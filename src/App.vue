@@ -20,7 +20,6 @@
 </template>
 
 <script>
-// import axios from 'axios'
 
 export default {
     name: 'App',
@@ -32,6 +31,7 @@ export default {
             temperatuea: "",
             weath: "",
             country: "",
+            // constants that may tkaes the value and use them to output the data
         }
     },
     methods: {
